@@ -18,6 +18,8 @@ Caps pressed:
 Caps pressed with Shift:
 ![EnGrMaShftCaps](https://user-images.githubusercontent.com/13092868/146493063-18f7153b-4ed4-4261-bd82-d1a0e6067a29.jpg)
 
+And several symbols with Ctrl pressed (Ctrl is not preferred for it is often defined by applications hotkey).
+
 This method is highly customizable . Using the tool Microsoft Keyboard Layout Creator, everyone can design his own keyboard layout. If you wish to modify mine, you could download the source file EnGrMa.klc; Download EnGrMa.7z installation package to use it directly.
 
 It will be installed as an English language keyboard. Switch to it by normal ways as  Ctrl+space, Ctrl+Shift, or clicking the language bar. If you want it to appear under other languages, go to Control panel → Regional and Language Options →  Languages settings or Keybord settings → Text Services and Input Languages. The new installed input method will be listed as "English Greek Mathematical symbols". You can remove it and add it again under other language.
