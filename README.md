@@ -5,6 +5,7 @@ Input method for STEM
 Initially posted on https://sites.google.com/site/luweitest/notes/input-greek-and-mathematical-symbols
 
 In order to input various symbols directly, mainly for mathematical and physical use,  I created an input method several years ago. Based on normal English keyboard, I added all Greek characters, and normal mathematical symbols. 
+![EnGrMaAltGr](https://user-images.githubusercontent.com/13092868/146492280-ae74e0db-94da-4634-ae00-0a7f1ab8e667.jpg)
 
 This method is highly customizable . Using the tool Microsoft Keyboard Layout Creator, everyone can design his own keyboard layout. If you wish to modify mine, you could download the source file EnGrMa.klc; Download EnGrMa.7z installation package to use it directly.
 
