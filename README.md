@@ -4,7 +4,7 @@ An input method to input symbols conveniently, mainly for STEM usage
 
 Initially posted on https://sites.google.com/site/luweitest/notes/input-greek-and-mathematical-symbols
 
-In order to input various symbols directly in text rather than using hyper-text language as HTML or LaTeX, mainly for mathematical and physical use,  I created this input method several years ago. Based on normal English keyboard, I added all Greek characters, and normal mathematical symbols. The layouts are as follow:
+In order to input various symbols directly in text rather than using hypertext language as HTML or LaTeX, mainly for mathematical and physical use, I created this input method several years ago. Based on normal English keyboard, I added all Greek characters, and normal mathematical symbols. The layouts are as follow:
 
 Right Alt or Ctrl+Alt pressed:
 ![EnGrMaAltGr](https://user-images.githubusercontent.com/13092868/228102479-bbcdd0b6-6f7b-4090-b7a6-633c83a2e006.PNG)
@@ -28,6 +28,6 @@ Right Alt = Ctrl+Alt. Use it mostly because it is less likely to conflict with o
 
 It is created by Microsoft Keyboard Layout Creator, with which everyone can design his own keyboard layout. If you wish to modify mine, the source file is EnGrMa.klc; Download EnGrMa.7z installation package to use it directly.
 
-It will be installed as an English language keyboard. Switch to it by normal ways as  Ctrl+space, Ctrl+Shift, or clicking the language bar. The new installed input method will be listed as "English Greek Mathematical symbols" under Control panel → Regional and Language Options →  Languages settings or Keybord settings → Text Services and Input Languages. You can remove it and add it again under other language.
+It will be installed as an English language keyboard. Switch to it by normal ways as  Ctrl+space, Ctrl+Shift, or clicking the language bar. The new installed input method will be listed as "English Greek Mathematical symbols" under Control panel → Regional and Language Options →  Languages settings or Keyboard settings → Text Services and Input Languages. You can remove it and add it again under other language.
 
-It is an input method only; To display all the symbols, fonts supporting Unicode should be present, e.g. Lucida Sans Unicode, Microsoft Yahei, etc. Additionly, font linking could combine more than one font. Test if your system can display these symbols: "π∂∇∫∮∯∧∩∈∋∌≡⊕≌→⇒⇁↑↕∝⊆≥∽≈⊥♀∘∞°∴" (blank squares would appear if no suitalbe fonts)
+It is an input method only; to display all the symbols, fonts supporting Unicode should be present, e.g. Lucida Sans Unicode, Microsoft YaHei, etc. Additionally, font linking could combine more than one font. Test if your system can display these symbols: "π∂∇∫∮∯∧∩∈∋∌≡⊕≌→⇒⇁↑↕∝⊆≥∽≈⊥♀∘∞°∴" (blank squares would appear if no suitable fonts)
