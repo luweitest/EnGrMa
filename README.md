@@ -1,6 +1,6 @@
 # En(glish)Gr(eek)Ma(thematical)
 
-An input method for convenient symbols input, mainly for STEM usage
+An input method to input symbols conveniently, mainly for STEM usage
 
 Initially posted on https://sites.google.com/site/luweitest/notes/input-greek-and-mathematical-symbols
 
